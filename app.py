@@ -6,7 +6,7 @@ import os
 import joblib
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
-
+#med trigui
 # ─────────────────────────────────────────────────────────────────────────────
 # 1. Configuration de la page Streamlit
 # ─────────────────────────────────────────────────────────────────────────────
